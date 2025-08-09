@@ -1,0 +1,42 @@
+﻿@page
+@model GestionGym.Pages.Subscription.EditModel
+
+@section Styles {
+    <link href="~/lib/bootstrap/dist/css/bootstrap-pulse.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+}
+
+<div class="container mt-5">
+    <h2>Modifier l'Abonnement</h2>
+
+    <form method="post">
+        <input type="hidden" asp-for="EditSubscriptionViewModel.Id" />
+
+        <div class="form-group">
+            <label asp-for="EditSubscriptionViewModel.Name">Nom de l'Abonnement</label>
+            <input asp-for="EditSubscriptionViewModel.Name" class="form-control" />
+            <span asp-validation-for="EditSubscriptionViewModel.Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="EditSubscriptionViewModel.Price">Prix</label>
+            <input asp-for="EditSubscriptionViewModel.Price" class="form-control" />
+            <span asp-validation-for="EditSubscriptionViewModel.Price" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="EditSubscriptionViewModel.DurationInDays">Durée en jours</label>
+            <input asp-for="EditSubscriptionViewModel.DurationInDays" class="form-control" />
+            <span asp-validation-for="EditSubscriptionViewModel.DurationInDays" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="EditSubscriptionViewModel.StartDate">Date de début</label>
+            <input asp-for="EditSubscriptionViewModel.StartDate" class="form-control" type="date" />
+            <span asp-validation-for="EditSubscriptionViewModel.StartDate" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">Mettre à jour</button>
+        <a asp-page="/Subscription/List" class="btn btn-secondary">Annuler</a>
+    </form>
+</div>

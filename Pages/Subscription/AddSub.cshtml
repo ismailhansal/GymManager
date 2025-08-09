@@ -1,0 +1,105 @@
+﻿@page
+@model GestionGym.Pages.Subscription.AddSubModel
+@{
+}
+
+@section Styles {
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap-pulse.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+
+
+
+}
+
+
+
+<div class="container body-content" style="margin-top: 100px;">
+    <h2>Add New Subscription</h2>
+    <hr>
+    <div class="row">
+        <div class="col-md-8 col-lg-4">
+            <form id="subscriptionForm" method="post">
+                <!-- Subscription Name -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-tag"></i></span>
+                    </div>
+                    <input type="text" asp-for="AddSubscriptionRequest.Name" class="form-control" placeholder="Subscription Name" required />
+                </div>
+                <span asp-validation-for="AddSubscriptionRequest.Name" class="text-danger"></span>
+
+                <!-- Dropdown: Select Price -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-dollar-sign"></i></span>
+                    </div>
+                    <select asp-for="AddSubscriptionRequest.Price" id="priceDropdown" class="form-control" required onchange="updateDuration()">
+                        <option value="30" data-duration="1">1 Session (30 DH)</option>
+                        <option value="200" data-duration="30">1 Month (200 DH)</option>
+                        <option value="450" data-duration="90">3 Months (450 DH)</option>
+                    </select>
+                </div>
+                <span asp-validation-for="AddSubscriptionRequest.Price" class="text-danger"></span>
+
+                <!-- Dropdown: Auto-update duration -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-hourglass-half"></i></span>
+                    </div>
+                    <input type="text" asp-for="AddSubscriptionRequest.DurationInDays" class="form-control" id="durationField" readonly />
+                </div>
+
+                <!-- Start Date -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-calendar-alt"></i></span>
+                    </div>
+                    <input type="date" asp-for="AddSubscriptionRequest.StartDate" class="form-control" value="@DateTime.Now.ToString("yyyy-MM-dd")" />
+                </div>
+                <span asp-validation-for="AddSubscriptionRequest.StartDate" class="text-danger"></span>
+
+                <!-- Hidden Member ID -->
+                <input asp-for="AddSubscriptionRequest.MemberId" type="hidden" />
+
+                <!-- Submit -->
+                <div class="row mt-4">
+                    <div class="col-6">
+                        <button type="submit" class="btn btn-primary btn-block">
+                            <i class="fa fa-plus-circle"></i> Submit
+                        </button>
+                    </div>
+                    <div class="col-6">
+                        <a href="/Subscriptions" class="btn btn-danger btn-block">
+                            <i class="fa fa-undo"></i> Back
+                        </a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <hr />
+
+    <footer class="login-footer">
+        <p>&copy; 2024 - Gym Manager</p>
+    </footer>
+</div>
+
+<script>
+    function updateDuration() {
+        const priceDropdown = document.getElementById('priceDropdown');
+        const durationField = document.getElementById('durationField');
+
+        const selectedOption = priceDropdown.options[priceDropdown.selectedIndex];
+        const duration = selectedOption.getAttribute('data-duration');
+
+        durationField.value = duration; // Afficher la durée en jours
+    }
+
+    // Mettre la valeur par défaut lors du chargement de la page
+    window.onload = function () {
+        updateDuration();
+    };
+</script>
+

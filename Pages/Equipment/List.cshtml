@@ -1,0 +1,99 @@
+﻿@page
+@model GestionGym.Pages.Equipment.ListModel
+@{
+}
+
+
+
+
+@section Styles {
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap-pulse.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+
+
+
+}
+
+
+
+
+
+
+<div class="container body-content mt-5">
+
+
+
+
+    <h2>Equipment</h2>
+
+    <a href="/Equipment/Add" class="btn btn-primary mt-3" role="button">New Equipment</a>
+    <hr>
+
+    <div class="table-responsive">
+        <table id="equipment" class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Serial Number</th>
+                    <th>Nom</th>
+                    <th>Description</th>
+                    <th>Quantité</th>
+                    <th>Date de maintenance</th>
+                    <th width="3%">Edit</th>
+                    <th width="3%">Delete</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+
+
+                @foreach(var equipment in Model.Equipments)
+                {
+                    <tr>
+
+                      <td>@equipment.Id</td>
+                      <td>@equipment.Name</td>
+                      <td>@equipment.Description</td>
+                      <td>@equipment.Quantity</td>
+                      <td>@equipment.MaintenanceDate</td>
+                        <td>
+                            <a asp-page="/Equipment/Edit" asp-route-id="@equipment.Id" class="btn btn-warning btn-sm" asp-page-handler="Update">
+                                <i class="fa fa-edit"></i>
+                            </a>
+                        </td>
+                        <td>
+
+
+
+                            <form method="post" asp-page-handler="Delete">
+                                <input type="hidden" name="id" value="@equipment.Id" />
+                                <button type="submit" class="btn btn-danger btn-sm">
+                                    <i class="fa fa-trash"></i>
+                                </button>
+                            </form>
+
+
+                           
+                        </td>
+
+                    </tr>
+                }
+
+
+
+
+
+
+
+
+            </tbody>
+        </table>
+    </div>
+
+
+    <hr />
+    <footer class="login-footer">
+        <p>&copy; 2024 - Gym Manager</p>
+    </footer>
+</div>

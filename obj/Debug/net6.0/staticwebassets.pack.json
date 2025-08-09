@@ -1,0 +1,2321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GestionGym.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GestionGym.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\LoginAndRegisterStyle.css",
+      "PackagePath": "staticwebassets\\css\\LoginAndRegisterStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\__colors-dark.css",
+      "PackagePath": "staticwebassets\\css\\__colors-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\__colors-dark_blue.css",
+      "PackagePath": "staticwebassets\\css\\__colors-dark_blue.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\__colors-dark_orange.css",
+      "PackagePath": "staticwebassets\\css\\__colors-dark_orange.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\__colors-default.css",
+      "PackagePath": "staticwebassets\\css\\__colors-default.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\__colors-default_blue.css",
+      "PackagePath": "staticwebassets\\css\\__colors-default_blue.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\__colors-default_orange.css",
+      "PackagePath": "staticwebassets\\css\\__colors-default_orange.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\__custom.css",
+      "PackagePath": "staticwebassets\\css\\__custom.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\__plugins.css",
+      "PackagePath": "staticwebassets\\css\\__plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\__responsive.css",
+      "PackagePath": "staticwebassets\\css\\__responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-bold.eot",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-bold.ttf",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-bold.woff",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-bold.woff2",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-boldd41d.eot",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-boldd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-extralight.eot",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-extralight.eot"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-extralight.ttf",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-extralight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-extralight.woff",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-extralight.woff"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-extralight.woff2",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-extralight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-extralightd41d.eot",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-extralightd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-light.eot",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-light.ttf",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-light.woff",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-light.woff2",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-lightd41d.eot",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-lightd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-semibold.eot",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-semibold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-semibold.ttf",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-semibold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-semibold.woff",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-semibold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-semibold.woff2",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-semibold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\montserrat-semiboldd41d.eot",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\montserrat-semiboldd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-face\\Montserrat\\stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\font-face\\Montserrat\\stylesheet.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-icons\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\css\\font-icons\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-icons\\font\\fontello95ba.eot",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font\\fontello95ba.eot"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-icons\\font\\fontello95ba.svg",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font\\fontello95ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-icons\\font\\fontello95ba.ttf",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font\\fontello95ba.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-icons\\font\\fontello95ba.woff",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font\\fontello95ba.woff"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\font-icons\\font\\fontello95ba.woff2",
+      "PackagePath": "staticwebassets\\css\\font-icons\\font\\fontello95ba.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\img\\blockquote-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\blockquote-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\img\\carousel-slide-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\img\\carousel-slide-3.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\img\\carousel-slide-4.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\img\\login-cover.jpg",
+      "PackagePath": "staticwebassets\\img\\login-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\img\\preloader.gif",
+      "PackagePath": "staticwebassets\\img\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\img\\stiky-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\stiky-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\index1.html",
+      "PackagePath": "staticwebassets\\index1.html"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\js\\__scripts.js",
+      "PackagePath": "staticwebassets\\js\\__scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\js\\theme-gallery\\classie.min.js",
+      "PackagePath": "staticwebassets\\js\\theme-gallery\\classie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\js\\theme-gallery\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\js\\theme-gallery\\modernizr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\js\\theme-gallery\\theme-gallery.js",
+      "PackagePath": "staticwebassets\\js\\theme-gallery\\theme-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-pulse.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-pulse.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\1-copyright-1-400x286.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\1-copyright-1-400x286.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\1-copyright-1-406x250.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\1-copyright-1-406x250.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\1-copyright-1-600x600.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\1-copyright-1-600x600.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\1-copyright-1.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\1-copyright-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\1-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\1-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\2-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\2-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\3-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\3-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\4-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\4-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\5-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\5-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\6-copyright-1-400x286.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\6-copyright-1-400x286.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\6-copyright-1-406x250.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\6-copyright-1-406x250.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\6-copyright-1-600x600.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\6-copyright-1-600x600.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\6-copyright-1.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\6-copyright-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\6-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\6-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\7-copyright-400x286.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\7-copyright-400x286.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\7-copyright-406x250.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\7-copyright-406x250.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\7-copyright-600x600.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\7-copyright-600x600.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\7-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\7-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\8-copyright-400x286.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\8-copyright-400x286.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\8-copyright-406x250.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\8-copyright-406x250.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\8-copyright-600x600.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\8-copyright-600x600.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\8-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\8-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\banner-2-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\banner-2-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\banner-3-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\banner-3-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\banner-4-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\banner-4-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\banner-5-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\banner-5-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\banner-6-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\banner-6-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\bg_categories-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\bg_categories-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\bg_count.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\bg_count.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\bg_nstagram.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\bg_nstagram.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-1-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-1-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-1-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-1-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-1-copyright-765x955.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-1-copyright-765x955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-2-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-2-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-2-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-2-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-2-copyright-765x955.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-2-copyright-765x955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-2-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-2-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-3-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-3-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-3-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-3-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-3-copyright-765x955.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-3-copyright-765x955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-3-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-3-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-4-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-4-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-4-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-4-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-4-copyright-765x955.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-4-copyright-765x955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-4-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-4-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-5-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-5-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-5-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-5-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-5-copyright-765x955.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-5-copyright-765x955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-5-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-5-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-6-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-6-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-6-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-6-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-6-copyright-765x955.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-6-copyright-765x955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-6-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-6-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-7-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-7-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-7-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-7-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-7-copyright-765x955.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-7-copyright-765x955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-7-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-7-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-8-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-8-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-8-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-8-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-8-copyright-765x955.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-8-copyright-765x955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-8-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-8-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-9-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-9-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-9-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-9-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-9-copyright-765x955.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-9-copyright-765x955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\class-9-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\class-9-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf4-copyright-1-400x286.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf4-copyright-1-400x286.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf4-copyright-1-406x250.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf4-copyright-1-406x250.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf4-copyright-1-600x427.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf4-copyright-1-600x427.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf4-copyright-1.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf4-copyright-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf5-copyright-400x286.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf5-copyright-400x286.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf5-copyright-406x250.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf5-copyright-406x250.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf5-copyright-600x427.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf5-copyright-600x427.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf5-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf5-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf6-copyright-400x286.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf6-copyright-400x286.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf6-copyright-406x250.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf6-copyright-406x250.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf6-copyright-600x427.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf6-copyright-600x427.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\crf6-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\crf6-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\cropped-favicon_512x512-300x300.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\cropped-favicon_512x512-300x300.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\cropped-favicon_512x512-90x90.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\cropped-favicon_512x512-90x90.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-10-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-10-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-11-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-11-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-2-copyright-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-2-copyright-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-3-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-3-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-4-copyright-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-4-copyright-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-5-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-5-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-6-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-6-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-7-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-7-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-8-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-8-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\gallery-9-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\gallery-9-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-1-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-1-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-10-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-10-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-11-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-11-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-12-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-12-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-13-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-13-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-13-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-13-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-14-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-14-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-5-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-5-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-6-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-6-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-7-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-7-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-8-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-8-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-9-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-9-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\img-al1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\img-al1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\logo-inverse.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\logo-inverse.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\logo-shop-invert.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\logo-shop-invert.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\logo.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\marker-1.png",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\marker-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-1-copyright-1-1170x658.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-1-copyright-1-1170x658.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-1-copyright-1-370x208.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-1-copyright-1-370x208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-1-copyright-1-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-1-copyright-1-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-1-copyright-1-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-1-copyright-1-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-1-copyright-1-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-1-copyright-1-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-1-copyright-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-1-copyright-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-10-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-10-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-10-copyright-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-10-copyright-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-10-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-10-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-10-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-10-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-11-copyright-366x260.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-11-copyright-366x260.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-11-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-11-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-11-copyright-640x560.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-11-copyright-640x560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-11-copyright-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-11-copyright-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-11-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-11-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-11-copyright-842x560.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-11-copyright-842x560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-11-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-11-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-12-copyright-150x150.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-12-copyright-150x150.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-12-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-12-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-12-copyright-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-12-copyright-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-12-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-12-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-12-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-12-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-13-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-13-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-13-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-13-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-13-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-13-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-14-copyright-366x260.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-14-copyright-366x260.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-14-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-14-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-14-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-14-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-14-copyright-842x560.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-14-copyright-842x560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-14-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-14-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-15-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-15-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-15-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-15-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-15-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-15-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-15-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-15-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-16-copyright-1170x658.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-16-copyright-1170x658.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-16-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-16-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-16-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-16-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-16-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-16-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-17-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-17-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-17-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-17-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-17-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-17-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-18-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-18-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-18-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-18-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-18-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-18-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-19-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-19-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-19-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-19-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-19-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-19-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-2-copyright-1-1170x658.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-2-copyright-1-1170x658.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-2-copyright-1-370x208.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-2-copyright-1-370x208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-2-copyright-1-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-2-copyright-1-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-2-copyright-1-640x560.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-2-copyright-1-640x560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-2-copyright-1-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-2-copyright-1-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-2-copyright-1-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-2-copyright-1-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-2-copyright-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-2-copyright-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-20-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-20-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-20-copyright-640x560.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-20-copyright-640x560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-20-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-20-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-20-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-20-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-3-copyright-370x208.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-3-copyright-370x208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-3-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-3-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-3-copyright-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-3-copyright-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-3-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-3-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-3-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-3-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-4-copyright-370x208.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-4-copyright-370x208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-4-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-4-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-4-copyright-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-4-copyright-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-4-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-4-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-4-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-4-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-5-copyright-1-370x208.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-5-copyright-1-370x208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-5-copyright-1-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-5-copyright-1-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-5-copyright-1-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-5-copyright-1-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-5-copyright-1-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-5-copyright-1-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-5-copyright-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-5-copyright-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-6-copyright-1-1170x658.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-6-copyright-1-1170x658.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-6-copyright-1-370x208.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-6-copyright-1-370x208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-6-copyright-1-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-6-copyright-1-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-6-copyright-1-765x431.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-6-copyright-1-765x431.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-6-copyright-1-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-6-copyright-1-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-6-copyright-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-6-copyright-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-7-copyright-1-150x150.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-7-copyright-1-150x150.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-7-copyright-1-370x208.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-7-copyright-1-370x208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-7-copyright-1-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-7-copyright-1-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-7-copyright-1-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-7-copyright-1-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-7-copyright-1-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-7-copyright-1-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-7-copyright-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-7-copyright-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-8-copyright-370x208.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-8-copyright-370x208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-8-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-8-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-8-copyright-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-8-copyright-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-8-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-8-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-8-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-8-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-9-copyright-370x208.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-9-copyright-370x208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-9-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-9-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-9-copyright-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-9-copyright-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-9-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-9-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post-9-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post-9-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1010-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1010-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1010-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1010-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1010-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1010-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1111-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1111-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1111-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1111-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1111-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1111-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1112-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1112-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1112-copyright-765x1054.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1112-copyright-765x1054.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1112-copyright-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1112-copyright-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1113-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1113-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1113-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1113-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1114-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1114-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1114-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1114-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1114-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1114-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1115-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1115-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1115-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1115-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1115-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1115-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1116-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1116-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1116-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1116-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1116-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1116-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1117-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1117-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1117-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1117-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1117-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1117-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1117-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1117-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1118-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1118-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1118-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1118-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1118-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1118-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1119-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1119-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1119-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1119-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1119-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1119-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1120-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1120-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1120-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1120-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post1120-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post1120-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post222-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post222-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post222-copyright-765x1054.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post222-copyright-765x1054.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post222-copyright-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post222-copyright-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post333-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post333-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post333-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post333-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post444-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post444-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post444-copyright-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post444-copyright-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post888-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post888-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post888-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post888-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\post888-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\post888-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\price-1-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\price-1-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\price-2-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\price-2-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\price-3-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\price-3-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-1-copyright-370x352.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-1-copyright-370x352.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-1-copyright-400x286.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-1-copyright-400x286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-1-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-1-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-1-copyright-600x570.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-1-copyright-600x570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-1-copyright-765x727.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-1-copyright-765x727.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-2-copyright-400x286.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-2-copyright-400x286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-2-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-2-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-2-copyright-600x570.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-2-copyright-600x570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-2-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-2-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-3-copyright-400x286.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-3-copyright-400x286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-3-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-3-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-3-copyright-600x570.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-3-copyright-600x570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-3-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-3-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-4-copyright-400x286.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-4-copyright-400x286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-4-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-4-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-4-copyright-600x570.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-4-copyright-600x570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-4-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-4-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-5-copyright-400x286.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-5-copyright-400x286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-5-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-5-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-5-copyright-600x570.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-5-copyright-600x570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-5-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-5-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-6-copyright-370x352.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-6-copyright-370x352.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-6-copyright-400x286.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-6-copyright-400x286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-6-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-6-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-6-copyright-600x570.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-6-copyright-600x570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-6-copyright-765x727.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-6-copyright-765x727.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-6-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-6-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-7-copyright-400x286.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-7-copyright-400x286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-7-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-7-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-7-copyright-600x570.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-7-copyright-600x570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-7-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-7-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-8-copyright-400x286.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-8-copyright-400x286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-8-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-8-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-8-copyright-600x570.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-8-copyright-600x570.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\product-8-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\product-8-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\sample-melody.mp3",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\sample-melody.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\sample-melody230a.mp3",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\sample-melody230a.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-1-copyright-366x260.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-1-copyright-366x260.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-1-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-1-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-1-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-1-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-1-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-1-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-1-copyright-842x560.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-1-copyright-842x560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-2-copyright-366x260.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-2-copyright-366x260.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-2-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-2-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-2-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-2-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-2-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-2-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-2-copyright-842x560.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-2-copyright-842x560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-2-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-2-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-3-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-3-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-3-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-3-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-3-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-3-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-3-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-3-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-4-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-4-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-4-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-4-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-4-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-4-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-4-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-4-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-5-copyright-366x260.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-5-copyright-366x260.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-5-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-5-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-5-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-5-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-5-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-5-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-5-copyright-842x560.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-5-copyright-842x560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-5-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-5-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-6-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-6-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-6-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-6-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-6-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-6-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-6-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-6-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-7-copyright-366x260.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-7-copyright-366x260.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-7-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-7-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-7-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-7-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-7-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-7-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-7-copyright-765x861.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-7-copyright-765x861.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-7-copyright-842x560.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-7-copyright-842x560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\team-7-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\team-7-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2018\\05\\video1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2018\\05\\video1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\01\\breadcrumbs-bg-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\01\\breadcrumbs-bg-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\01\\phone-copyright.png",
+      "PackagePath": "staticwebassets\\uploads\\2019\\01\\phone-copyright.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\banner-new.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\banner-new.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\flag-1.png",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\flag-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\flag-2.png",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\flag-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\flag-3.png",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\flag-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\flag-4.png",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\flag-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\gym-home-1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\gym-home-1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\home-1-slider-1-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\home-1-slider-1-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\home-2-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\home-2-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\home-3-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\home-3-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\home-3-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\home-3-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\home-4-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\home-4-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\image-shop-1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\image-shop-1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\logo-gym.png",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\logo-gym.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\logo-news.png",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\logo-news.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\logo-news_x2.png",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\logo-news_x2.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\logo-shop.png",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\logo-shop.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\02\\shop-bg.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\02\\shop-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\03\\banner-copyright-370x551.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\03\\banner-copyright-370x551.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\03\\banner-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\03\\banner-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2019\\03\\bg_newsletter-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2019\\03\\bg_newsletter-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\09\\shutterstock_516217204-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\09\\shutterstock_516217204-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\09\\shutterstock_516217204-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\09\\shutterstock_516217204-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\09\\thai-home-bg-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\09\\thai-home-bg-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\235236-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\235236-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\235236-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\235236-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\235236-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\235236-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\235236.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\235236.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\35675а6-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\35675а6-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\35675а6-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\35675а6-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\35675а6-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\35675а6-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\35675а6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\35675а6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1020428005-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1020428005-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1020428005-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1020428005-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1020428005-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1020428005-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1020428005-copyright-90x90.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1020428005-copyright-90x90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1020428005-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1020428005-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1178086696-1-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1178086696-1-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1178086696-1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1178086696-1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1741675439-2-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1741675439-2-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1741675439-2-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1741675439-2-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1748469800-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1748469800-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1748469800-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1748469800-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1748469800-copyright-90x90.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1748469800-copyright-90x90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1748469800-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1748469800-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1767719231-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1767719231-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1767719231-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1767719231-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1767719231-copyright-765x430.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1767719231-copyright-765x430.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1767719231-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1767719231-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1767719231-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1767719231-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_1771663343-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_1771663343-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_352960784-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_352960784-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_352960784-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_352960784-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_352960784-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_352960784-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_352960799-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_352960799-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_352960799-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_352960799-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_352960799-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_352960799-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_352960799-copyright-90x90.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_352960799-copyright-90x90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_352960799-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_352960799-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_570888670-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_570888670-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_570888670-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_570888670-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_570888670-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_570888670-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_570888670-copyright-90x90.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_570888670-copyright-90x90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_570888670-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_570888670-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_636708469-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_636708469-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_636708469-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_636708469-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_636708469-copyright-90x90.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_636708469-copyright-90x90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\10\\shutterstock_636708469-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\10\\shutterstock_636708469-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\11\\karate-back.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\11\\karate-back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\11\\logo.png",
+      "PackagePath": "staticwebassets\\uploads\\2020\\11\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2020\\11\\shutterstock_1178086696-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2020\\11\\shutterstock_1178086696-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\03\\inst-2-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\03\\inst-2-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\03\\inst-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\03\\inst-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\07\\crossfit-slide01-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\07\\crossfit-slide01-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\07\\logo-1-1.png",
+      "PackagePath": "staticwebassets\\uploads\\2021\\07\\logo-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\07\\logo-2.png",
+      "PackagePath": "staticwebassets\\uploads\\2021\\07\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\07\\logo-3.png",
+      "PackagePath": "staticwebassets\\uploads\\2021\\07\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\08\\bg-blog-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\08\\bg-blog-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\08\\img1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\08\\img1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\08\\post111-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\08\\post111-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\08\\post1122-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\08\\post1122-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\about-the-gym-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\about-the-gym-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\event-1-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\event-1-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\event-1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\event-1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\event-2-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\event-2-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\event-2-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\event-2-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\event-3-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\event-3-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\event-3-copyright-765x1054.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\event-3-copyright-765x1054.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\event-3-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\event-3-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\freestyle-wrestling-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\freestyle-wrestling-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\freestyle-wrestling-copyright-765x1113.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\freestyle-wrestling-copyright-765x1113.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\freestyle-wrestling-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\freestyle-wrestling-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\freestyle-wrestling-copyright-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\freestyle-wrestling-copyright-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\grapping-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\grapping-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\grapping-copyright-765x1113.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\grapping-copyright-765x1113.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\grapping-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\grapping-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\grapping-copyright-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\grapping-copyright-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\home-wrastling-bg-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\home-wrastling-bg-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\insta-1-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\insta-1-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\insta-2-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\insta-2-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\insta-3-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\insta-3-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\insta-5-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\insta-5-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\judo-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\judo-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\judo-copyright-765x1113.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\judo-copyright-765x1113.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\judo-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\judo-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\judo-copyright-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\judo-copyright-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\mma-copyright-765x1113.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\mma-copyright-765x1113.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\mma-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\mma-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\mma-copyright-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\mma-copyright-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\pankration-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\pankration-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\pankration-copyright-765x1113.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\pankration-copyright-765x1113.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\pankration-copyright-765x435.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\pankration-copyright-765x435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\pankration-copyright-scaled.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\pankration-copyright-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\poster-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\poster-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\start-now-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\start-now-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\subscribe-bg-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\subscribe-bg-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-1-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-1-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-1-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-1-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-1-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-1-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-1-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-1-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-2-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-2-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-2-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-2-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-2-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-2-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-2-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-2-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-3-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-3-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-3-copyright-406x250.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-3-copyright-406x250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-3-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-3-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-3-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-3-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-4-copyright-370x370.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-4-copyright-370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-4-copyright-600x764.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-4-copyright-600x764.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\team-4-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\team-4-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\2021\\12\\why-rumble-copyright.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2021\\12\\why-rumble-copyright.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\elementor\\css\\post-5267bdeb.html",
+      "PackagePath": "staticwebassets\\uploads\\elementor\\css\\post-5267bdeb.html"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\elementor\\thumbs\\class-6-copyright-qvl04uxxzr9hqa9azdn4rc1ffq4ao8acp6m3x4usky.jpg",
+      "PackagePath": "staticwebassets\\uploads\\elementor\\thumbs\\class-6-copyright-qvl04uxxzr9hqa9azdn4rc1ffq4ao8acp6m3x4usky.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\elementor\\thumbs\\post1119-copyright-qvl04uxxyfvu4in8yhx9g7srmhxdy8xlya1aq9h94m.jpg",
+      "PackagePath": "staticwebassets\\uploads\\elementor\\thumbs\\post1119-copyright-qvl04uxxyfvu4in8yhx9g7srmhxdy8xlya1aq9h94m.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismail\\source\\repos\\GestionGym\\wwwroot\\uploads\\elementor\\thumbs\\shutterstock_1345454252-copyright-qvl04uy57dqryp397422fw329a3jtkkmtp7u0ummoc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\elementor\\thumbs\\shutterstock_1345454252-copyright-qvl04uy57dqryp397422fw329a3jtkkmtp7u0ummoc.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GestionGym.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GestionGym.props",
+      "PackagePath": "build\\GestionGym.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GestionGym.props",
+      "PackagePath": "buildMultiTargeting\\GestionGym.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GestionGym.props",
+      "PackagePath": "buildTransitive\\GestionGym.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,77 @@
+﻿@page
+@model GestionGym.Pages.Member.ListModel
+@{
+}
+
+
+@section Styles {
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap-pulse.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+
+
+
+}
+
+
+
+
+
+
+
+<div class="container body-content mt-5">
+    <h2>Member</h2>
+
+    <a href="/Member/Add" class="btn btn-primary mt-3" role="button">New Member</a>
+    <hr>
+
+    <div class="table-responsive">
+        <table id="member" class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Address</th>
+                    <th>Date of Birth</th>
+                    <th>Phone Number</th>
+                    <th width="3%">Edit</th>
+                    <th width="3%">Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var member in Model.Members)
+                {
+                    <tr>
+                        <td>@member.Id</td>
+                        <td>@member.FirstName</td>
+                        <td>@member.LastName</td>
+                        <td>@member.Address</td>
+                        <td>@member.DateOfBirth</td>
+                        <td>@member.PhoneNumber</td>
+                        <td>
+                            <a asp-page="/Member/Edit" asp-route-id="@member.Id" class="btn btn-warning btn-sm">
+                                <i class="fa fa-edit"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <form method="post" asp-page-handler="Delete">
+                                <input type="hidden" name="id" value="@member.Id" />
+                                <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Voulez-vous vraiment supprimer ce membre et tous ses abonnements ?');">
+                                    <i class="fa fa-trash"></i>
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <hr />
+    <footer class="login-footer">
+        <p>&copy; 2024 - Gym Manager</p>
+    </footer>
+</div>
+

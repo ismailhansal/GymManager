@@ -1,0 +1,51 @@
+﻿@page
+@model GestionGym.Pages.Member.EditModel
+@{
+}
+
+@section Styles {
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap-pulse.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+
+
+}
+
+
+
+<h1>Modifier un Membre</h1>
+<div class="container mt-5">
+<form method="post">
+    <div class="form-group">
+
+
+            <input type="hidden" asp-for="EditMemberViewModel.Id" />
+
+
+        <label asp-for="EditMemberViewModel.FirstName">Prénom</label>
+        <input asp-for="EditMemberViewModel.FirstName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="EditMemberViewModel.LastName">Nom</label>
+        <input asp-for="EditMemberViewModel.LastName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="EditMemberViewModel.Email">Email</label>
+        <input asp-for="EditMemberViewModel.Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="EditMemberViewModel.PhoneNumber">Numéro de téléphone</label>
+        <input asp-for="EditMemberViewModel.PhoneNumber" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="EditMemberViewModel.DateOfBirth">Date de naissance</label>
+        <input asp-for="EditMemberViewModel.DateOfBirth" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="EditMemberViewModel.Address">Adresse</label>
+        <input asp-for="EditMemberViewModel.Address" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Soumettre</button>
+</form>
+</div>

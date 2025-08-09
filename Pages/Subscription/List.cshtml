@@ -1,0 +1,74 @@
+﻿@page
+@model GestionGym.Pages.Subscription.ListModel
+@{
+}
+
+
+
+
+
+@section Styles {
+    <link href="~/lib/bootstrap/dist/css/bootstrap-pulse.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+}
+
+
+
+
+
+
+<div class="container body-content mt-5">
+    <h2>Subscriptions</h2>
+
+    <a href="/Subscription/Add" class="btn btn-primary mt-3" role="button">New Subscription</a>
+    <hr>
+
+    <div class="table-responsive">
+        <table id="subscriptions" class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Subscription ID</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Duration (Days)</th>
+                    <th>Start date</th>
+                    <th>Owned By</th>
+                    <th width="3%">Edit</th>
+                    <th width="3%">Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var subscription in Model.Subscriptions)
+                {
+                    <tr>
+                        <td>@subscription.Id</td>
+                        <td>@subscription.Name</td>
+                        <td>@subscription.Price</td>
+                        <td>@subscription.DurationInDays</td>
+                        <td>@subscription.StartDate</td> <!-- Prénom -->
+                        <td>@subscription.Member.FirstName @subscription.Member.LastName </td>
+                        <td>
+                            <a asp-page="/Subscription/Edit" asp-route-id="@subscription.Id" class="btn btn-warning btn-sm">
+                                <i class="fa fa-edit"></i>
+                            </a>
+                        </td>
+                        
+                        <td>
+                            <form asp-page-handler="Delete" asp-route-id="@subscription.Id" method="post">
+                                <button type="submit" class="btn btn-danger btn-sm">
+                                    <i class="fa fa-trash"></i> 
+                                </button>
+                            </form>
+                        
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <hr />
+    <footer class="login-footer">
+        <p>&copy; 2024 - Gym Manager</p>
+    </footer>
+</div>

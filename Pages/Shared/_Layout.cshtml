@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GestionGym</title>
+
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    @RenderSection("Styles", required: false)
+    
+   
+</head>
+
+
+
+
+
+
+
+
+
+<body>
+    @if (ViewData["HideNavbar"] == null || (bool)ViewData["HideNavbar"] == false)
+    {
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-primary">
+            <div class="container">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <a href="/Account/LoggedIn" class="navbar-brand"><i class="fas fa-dumbbell"></i> <span class="logo">Gym Manager</span></a>
+
+                <div class="navbar-collapse collapse" id="navbarSupportedContent">
+                    <ul class="nav navbar-nav mr-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="/Equipment/List" role="button" aria-haspopup="true" aria-expanded="false">Equipment</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="/Equipment/List">All Equipment</a>
+                                <a class="dropdown-item" href="/Equipment/Add">Add New</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="/Member/List" role="button" aria-haspopup="true" aria-expanded="false">Members</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="/Member/List">All Members</a>
+                                <a class="dropdown-item" href="/Member/Add">New Member</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="/Subscription/List" role="button" aria-haspopup="true" aria-expanded="false">Subscriptions</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="/Subscription/List">All Subscriptions</a>
+                                <a class="dropdown-item" href="/Subscription/Add">Add New subscription</a>
+                            </div>
+                        </li>
+                       
+                    </ul>
+                    <partial name="_LoginPartial" />
+
+
+
+
+                    <div>
+                            <input name="__RequestVerificationToken" type="hidden" value="Eq2yKQD0ZQ0yq1UjiNfLG_OjllE-XJAddOXPgo5DwfYfoibnN3TKDEc4jVx-IpDwi98Kk7QSSorduRs2xHiWzBw1A_ac0jk-DEnljqKwMxAwUjjsIJhNVkX-TxVrrYnODP-O7S918t5oY_6xlibuqQ2" />        <ul class="nav navbar-nav navbar-right mr-auto">
+                                <li class="nav-item"><a class="nav-link" href="/Manage" title="Manage">Hello ismail@test.com!</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/Index">Log off</a></li>
+                            </ul>
+                        
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    
+
+    <footer class=" footer text-muted">
+        <div class="container">
+            &copy; 2024 - GestionGym - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    
+</body>
+</html>

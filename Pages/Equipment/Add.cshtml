@@ -1,0 +1,80 @@
+﻿@page
+@model GestionGym.Pages.Equipment.AddModel
+@{
+}
+
+
+@section Styles {
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap-pulse.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+
+
+
+}
+
+
+
+<div class="container body-content mt-5">
+    <h2>Add New Equipment</h2>
+    <hr>
+    <div class="row">
+        <div class="col-md-8 col-lg-4">
+            <form id="equipmentForm" method="post">
+                <!-- Name -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-tag"></i></span>
+                    </div>
+                    <input type="text" asp-for="AddEquipmentRequest.Name" class="form-control" placeholder="Equipment Name" required />
+                </div>
+                <span asp-validation-for="AddEquipmentRequest.Name" class="text-danger"></span>
+
+                <!-- Description -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-info-circle"></i></span>
+                    </div>
+                    <textarea asp-for="AddEquipmentRequest.Description" class="form-control" placeholder="Description" rows="3" required></textarea>
+                </div>
+                <span asp-validation-for="AddEquipmentRequest.Description" class="text-danger"></span>
+
+                <!-- Quantity -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-cubes"></i></span>
+                    </div>
+                    <input asp-for="AddEquipmentRequest.Quantity" type="number" class="form-control" placeholder="Quantity" min="1" required />
+                </div>
+                <span asp-validation-for="AddEquipmentRequest.Quantity" class="text-danger"></span>
+
+                <!-- Maintenance Date -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-calendar-alt"></i></span>
+                    </div>
+                    <input asp-for="AddEquipmentRequest.MaintenanceDate" type="date" class="form-control" required />
+                </div>
+                <span asp-validation-for="AddEquipmentRequest.MaintenanceDate" class="text-danger"></span>
+
+                <!-- Submit Button -->
+                <div class="row mt-4">
+                    <div class="col-6">
+                        <button type="submit" class="btn btn-primary btn-block"><i class="fa fa-plus-circle"></i> Submit</button>
+                    </div>
+                    <div class="col-6">
+                        <a href="/Equipment" class="btn btn-danger btn-block" role="button"><i class="fa fa-undo"></i> Back</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+    <hr />
+    <footer class="login-footer">
+        <p>&copy; 2024 - Gym Manager</p>
+    </footer>
+</div>

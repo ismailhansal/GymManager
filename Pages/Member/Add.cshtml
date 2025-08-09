@@ -1,0 +1,99 @@
+﻿@page
+@model GestionGym.Pages.Member.AddModel
+@{
+}
+
+
+
+@section Styles {
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap-pulse.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+
+
+
+}
+
+
+<div class="container body-content" style="margin-top: 100px;">
+    <h2>Add New Member</h2>
+    <hr>
+    <div class="row">
+        <div class="col-md-8 col-lg-4">
+            <form id="memberForm" method="post">
+                <!-- First Name -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-user"></i></span>
+                    </div>
+                    <input type="text" asp-for="AddMemberRequest.FirstName" class="form-control" placeholder="First Name" required />
+                </div>
+                <span asp-validation-for="AddMemberRequest.FirstName" class="text-danger"></span>
+
+                <!-- Last Name -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-user"></i></span>
+                    </div>
+                    <input type="text" asp-for="AddMemberRequest.LastName" class="form-control" placeholder="Last Name" required />
+                </div>
+                <span asp-validation-for="AddMemberRequest.LastName" class="text-danger"></span>
+
+                <!-- Email -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-envelope"></i></span>
+                    </div>
+                    <input type="email" asp-for="AddMemberRequest.Email" class="form-control" placeholder="Email" required />
+                </div>
+                <span asp-validation-for="AddMemberRequest.Email" class="text-danger"></span>
+
+                <!-- Phone Number -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-phone"></i></span>
+                    </div>
+                    <input type="text" asp-for="AddMemberRequest.PhoneNumber" class="form-control" placeholder="Phone Number" required />
+                </div>
+                <span asp-validation-for="AddMemberRequest.PhoneNumber" class="text-danger"></span>
+
+                <!-- Date of Birth -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-calendar-alt"></i></span>
+                    </div>
+                    <input asp-for="AddMemberRequest.DateOfBirth" type="date" class="form-control" required />
+                </div>
+                <span asp-validation-for="AddMemberRequest.DateOfBirth" class="text-danger"></span>
+
+                <!-- Address -->
+                <div class="input-group mt-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-home"></i></span>
+                    </div>
+                    <input type="text" asp-for="AddMemberRequest.Address" class="form-control" placeholder="Address" required />
+                </div>
+                <span asp-validation-for="AddMemberRequest.Address" class="text-danger"></span>
+
+                <!-- Submit and Back Buttons -->
+                <div class="row mt-4">
+                    <div class="col-6">
+                        <button type="submit" class="btn btn-primary btn-block">
+                            <i class="fa fa-plus-circle"></i> Submit
+                        </button>
+                    </div>
+                    <div class="col-6">
+                        <a href="/Members" class="btn btn-danger btn-block" role="button">
+                            <i class="fa fa-undo"></i> Back
+                        </a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <hr />
+    <footer class="login-footer">
+        <p>&copy; 2024 - Gym Manager</p>
+    </footer>
+</div>
